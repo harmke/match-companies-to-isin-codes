@@ -1,4 +1,4 @@
-# Match names to ISIN codes using Azure AI Language and Wiki data
+# Match company names to ISIN codes using Azure AI Language and Wiki data
 
 Entity linking is a natural language processing task that involves identifying and disambiguating entities in a text. Entities are words or phrases that refer to real-world objects, such as people, places, organizations, events, products, etc. Disambiguating entities means resolving the ambiguity that arises when the same word or phrase can refer to different entities, depending on the context. For example, the word "Apple" can refer to the fruit, the company, or the Beatles' record label, depending on the text.
 
